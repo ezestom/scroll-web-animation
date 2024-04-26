@@ -57,25 +57,25 @@ export default function Slides() {
          <Slide
             position={[0, 0, 0]}
             urls={[
-               "https://images.pexels.com/photos/290386/pexels-photo-290386.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-               "https://images.pexels.com/photos/771881/pexels-photo-771881.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-               "https://images.pexels.com/photos/297303/pexels-photo-297303.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+               "https://images.pexels.com/photos/21620267/pexels-photo-21620267/free-photo-of-a-woman-in-a-white-dress-and-a-long-white-dress.jpeg",
+               "https://images.pexels.com/photos/14153041/pexels-photo-14153041.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+               "https://images.pexels.com/photos/20767750/pexels-photo-20767750.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
             ]}
          />
          <Slide
             position={[width * 1, 0, 0]}
             urls={[
-               "https://images.pexels.com/photos/1486222/pexels-photo-1486222.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-               "https://images.pexels.com/photos/2224861/pexels-photo-2224861.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-               "https://images.pexels.com/photos/1796505/pexels-photo-1796505.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+               "https://images.pexels.com/photos/14649875/pexels-photo-14649875.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+               "https://images.pexels.com/photos/20767753/pexels-photo-20767753/free-photo-of-a-woman-in-a-white-dress-with-a-bow-on-her-head.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+               "https://images.pexels.com/photos/20767752/pexels-photo-20767752.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
             ]}
          />
          <Slide
             position={[width * 2, 0, 0]}
             urls={[
-               "https://images.pexels.com/photos/290386/pexels-photo-290386.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-               "https://images.pexels.com/photos/771881/pexels-photo-771881.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-               "https://images.pexels.com/photos/297303/pexels-photo-297303.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+               "https://images.pexels.com/photos/21620267/pexels-photo-21620267/free-photo-of-a-woman-in-a-white-dress-and-a-long-white-dress.jpeg",
+               "https://images.pexels.com/photos/14153041/pexels-photo-14153041.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+               "https://images.pexels.com/photos/20767750/pexels-photo-20767750.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
             ]}
          />
       </>
